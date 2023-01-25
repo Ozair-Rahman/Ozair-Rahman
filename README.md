@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-append &bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
