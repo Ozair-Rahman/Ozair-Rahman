@@ -1,4 +1,5 @@
-# Hello! My name is Ozair
+# Hello!
+My name is Ozair, I am a second year at Durham College in Oshawa Canada, aspiring to become a frontend developer!
 
 # Languages
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
