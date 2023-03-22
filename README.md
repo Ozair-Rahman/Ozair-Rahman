@@ -1,7 +1,6 @@
 # Hello!
 My name is Ozair, I am a student at Durham College in Toronto, Canada aspiring to become a fullstack developer!
 
-LinkedIn: https://ca.linkedin.com/in/ozair-r-83443b227?trk=people-guest_people_search-card
 
 # Languages 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
